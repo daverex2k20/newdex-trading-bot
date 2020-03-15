@@ -1,0 +1,2 @@
+Asset EOS_price
+EOSDT 0.13574864
